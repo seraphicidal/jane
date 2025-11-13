@@ -201,7 +201,6 @@ body.playing #vol::-moz-range-thumb {
 }
 body.playing #blackout{background:rgba(0,0,0,1);}
 
-/* ---------- SLIDESHOW ---------- */
 #mem1,#mem2,#mem3,#mem4,#mem5,#mem6,#mem7,#mem8,#mem9,
 #mem10,#mem11,#mem12,#mem13,#mem14,#mem15,#mem16,#mem17,#mem18{
   position:fixed;
@@ -264,5 +263,6 @@ body.playing #mem18{
 #mem16 {animation-delay:180s; background-image:url("csmreze/scene2.png");}
 #mem17 {animation-delay:192s; background-image:url("csmreze/scene3.png");}
 #mem18 {animation-delay:204s; background-image:url("csmreze/window.png");}
+
 
   
